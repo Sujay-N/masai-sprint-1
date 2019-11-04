@@ -1,0 +1,106 @@
+.a1{
+    background-image:url('https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg?size=626&ext=jpg');
+    background-size:cover;
+    color:white;
+    font-style:
+  }
+  #id9{
+    text-align:center;
+    font-size:22px;
+    background:orange;
+      color:white
+  }
+  #id20 {
+    display:grid;
+    column-gap:15px;
+      grid-template-rows:260px 260px 260px;
+      grid-template-columns:295px 290px 299px;
+    background:
+  }
+  
+  #id20 div{
+    
+    background: lightblue;
+    font-size: 15px;
+    text-align: center;
+    image src="http://1.bp.blogspot.com/-uw1Ym98lIFY/TVcSe8p_tfI/AAAAAAAAABM/xQPnMfJwmKo/s1600/PSTN.gif" 
+  
+  }
+  
+  #id21{
+     display:grid;
+   column
+    grid-template-rows:30px 30px 30px;
+    grid-template-columns:300px 300px 313px;
+    
+  }
+  #id21 div{
+    background: teal;
+    font-size: 22px;
+    text-align: center;
+    color:white
+  }
+  }
+    
+  
+  image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CellTowersAtCorners.gif/250px-CellTowersAtCorners.gif"
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .zero{
+    background-image:url('https://images.pexels.com/photos/1495580/pexels-photo-1495580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+      background-size:cover
+  }
+  .one{
+    
+     font-size:22px
+  }
+  .two{
+    img src="https://images.pexels.com/photos/35886/phone-communication-call-select.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500";
+    
+  }
+  .three div{
+    float:left;
+    display:flex; 
+    margin: 15px;
+    height:200px;
+    width:180px;
+    font-size: 20px;
+    
+  
+  }
+  #xyz{
+    flex-wrap:wrap;
+   flex-direction:row;
+        font-size:21px
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  .classy{
+    background-image:url('https://images.pexels.com/photos/36006/renaissance-schallaburg-figures-facade.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+      background-size:cover;
+    color:white;
+      font-size:23px;
+  }
+  
